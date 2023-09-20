@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(to bottom right, rgba(255, 0, 102, 0.32), rgba(212, 255, 0, 0.534));
+}
+.sw{
+font-size: 50px;
+font-weight: 500;
+font-family: Georgia, 'Times New Roman', Times, serif;
+border: 2px solid red;
+
+text-decoration: dashed;
+text-shadow: 2px 2px red;
+    margin: 13% 30%;
+    padding: 5%;
+    text-align: center;
+    background-color: rgba(81, 6, 36, 0.32);
+}
+button{
+    background-color: #000;
+    color: white;
+    margin: 5px;
+    width: 100px;
+    height: 30px;
+    font-size: large;
+    border:2px solid red;
+    border-radius: 25px;
+    font-family:Arial, Helvetica, sans-serif
+}
